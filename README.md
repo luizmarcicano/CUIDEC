@@ -13,10 +13,10 @@ Every minigame has a different playstyle, and in the current available version, 
 ![alt text][inst]  
 
 
-[inst]: https://github.com/luizmarcicano/CUIDEC/blob/master/cenario/inst_jogo3.png "instruções"
-[jogo1]: "Screenshot 1"
-[jogo2]: "Screenshot 2"
-[jogo3]: "Screenshot 3"
+[inst]: https://github.com/luizmarcicano/CUIDEC/blob/master/miscelania/captura3.PNG "instruções"
+[jogo1]: https://github.com/luizmarcicano/CUIDEC/blob/master/miscelania/captura1.PNG "Screenshot 1"
+[jogo2]: https://github.com/luizmarcicano/CUIDEC/blob/master/miscelania/captura2.PNG "Screenshot 2"
+[jogo3]: https://github.com/luizmarcicano/CUIDEC/blob/master/miscelania/captura4.PNG "Screenshot 3"
 
 
 
