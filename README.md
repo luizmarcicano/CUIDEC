@@ -8,8 +8,11 @@ Every minigame has a different playstyle, and in the current available version, 
 ### Screenshots:    
 
 ![alt text][jogo1]  
+  
 ![alt text][jogo2]  
+  
 ![alt text][jogo3]  
+  
 ![alt text][inst]  
 
 
@@ -21,9 +24,9 @@ Every minigame has a different playstyle, and in the current available version, 
 
 
 ***I do not own the right to some of the images used in the game, most of them were available for free on websites, and the other one's were credited or edited.
-
+  
 [cabeca]: https://github.com/luizmarcicano/CUIDEC/blob/master/pers/cabeca.png  "cabeça"
-### ![alt text][cabeca]  Made by:  
+## ![alt text][cabeca]  Made by:  
 - Luiz Marcicano
   - [Github](https://github.com/luizmarcicano)
   - [Linkedin](https://www.linkedin.com/in/luiz-guilherme-lima-marcicano-2889a2170/)
