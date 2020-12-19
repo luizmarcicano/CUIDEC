@@ -1,9 +1,9 @@
 ##  <img src="https://github.com/luizmarcicano/CUIDEC/blob/master/pers/pablitoapoiado.png"> CUIDE-C
 
 ### Description  
-CUIDE-C is a game created with pygame library. It is a college project, which I do intend to take to a mobile platform in the future.
-It's a educational game for children. The intention is to teach them how to protect against the coronavirus pandemic while having some fun throughout the minigames.
-Every minigame has a different playstyle, and in the current available version, since it's exclusively for computers, it uses the Mouse and Keyboard to walkthrough the game. 
+CUIDE-C is a game created with pygame library. It is a college project, which I do intend to take to a mobile platform in the future.  
+It's a educational game for children. The intention is to teach them how to protect against the coronavirus pandemic while having some fun throughout the minigames.  
+Every minigame has a different playstyle, and in the current available version, since it's exclusively for computers, it uses the Mouse and Keyboard to walkthrough the game.   
 
 ### Screenshots:    
 
