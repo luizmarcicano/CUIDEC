@@ -6,7 +6,7 @@ It's a educational game for children. The intention is to teach them how to prot
 Every minigame has a different playstyle, and in the current available version, since it's exclusively for computers, it uses the Mouse and Keyboard to walkthrough the game. 
 
 #Screenshots:
-<img scr="https://github.com/luizmarcicano/CUIDEC/blob/master/cenario/Pagina%20inicial%20acesa.png">
+<img scr="https://github.com/luizmarcicano/CUIDEC/blob/master/cenario/Pagina%20inicial%20acesa.png" width= 200>
 
 
 <img scr="https://github.com/luizmarcicano/CUIDEC/blob/master/cenario/inst_jogo3.png">
