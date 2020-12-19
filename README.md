@@ -1,4 +1,4 @@
-##  <img src="https://github.com/luizmarcicano/CUIDEC/blob/master/pers/pablitoapoiado.png"> CUIDE-C
+# <img src="https://github.com/luizmarcicano/CUIDEC/blob/master/pers/pablitoapoiado.png"> CUIDE-C
 
 ### Description  
 CUIDE-C is a game created with pygame library. It is a college project, which I do intend to take to a mobile platform in the future.  
@@ -23,7 +23,7 @@ Every minigame has a different playstyle, and in the current available version, 
 ***I do not own the right to some of the images used in the game, most of them were available for free on websites, and the other one's were credited or edited.
 
 [cabeca]: https://github.com/luizmarcicano/CUIDEC/blob/master/pers/cabeca.png  "cabeça"
-![alt text][cabeca] ### Made by:  
+### ![alt text][cabeca]  Made by:  
 - Luiz Marcicano
   - [Github](https://github.com/luizmarcicano)
   - [Linkedin](https://www.linkedin.com/in/luiz-guilherme-lima-marcicano-2889a2170/)
